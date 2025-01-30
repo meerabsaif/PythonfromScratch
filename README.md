@@ -1,5 +1,5 @@
 # first.py
-This file covers all the python basics. Including : 
+This file covers all the basic concepts of Python. It Includes : 
 - Syntax – introduce you to the basic Python programming syntax.
 - Variables – explain to you what variables are and how to create concise and meaningful variables.
 - Strings – learn about string data and some basic string operations.
