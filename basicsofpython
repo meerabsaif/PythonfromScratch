@@ -5,9 +5,7 @@
 language assists in communicating with the computer.
 so break that language barrier 
 python is a multipurpose language.  
-python has a nice aroma, addictive scent. Python is very interesting and easy tbvh
-PS:thats how you can comment multiple lines using docstring.but what is a comment? dont worry the program wont not read whatever gibberish i wrote. 
-THAT IS THE GOOD PART. enough of these tales, come lets dig into basics of python language 
+PS:thats how you can comment multiple lines using docstring.but what is a comment? 
 """
 #basic syntax 
 print("my first python file")
